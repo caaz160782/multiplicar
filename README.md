@@ -1,7 +1,7 @@
 
 # Notas
 
-Aplicacon de tablas de multiplicar
+Aplicación de tablas de multiplicar
 
 ```text
 
